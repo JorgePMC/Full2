@@ -1,0 +1,15 @@
+.cabecera{
+    width: 812px;
+    height: 20px;
+    background-color: rgb(255, 118, 39);
+}
+.rec{
+    width: 20px;
+    height: 10px;
+    background-color: rgb(255, 118, 39);
+}
+
+img{
+    width: 200px;
+    height: 50px;
+}
