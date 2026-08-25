@@ -1,14 +1,24 @@
 .cabecera{
+    font-size: 20px;
     width: 812px;
     height: 20px;
     background-color: rgb(255, 118, 39);
 }
-.rec{
+.rectangular{
     width: 20px;
     height: 10px;
     background-color: rgb(255, 118, 39);
 }
-
+p{
+    color: #FF0000;
+    font-size: 24px;
+}
+.bg1{
+    background-color: rgb(62, 224, 236);
+}
+.bg2{
+    background-color: rgb(28, 216, 153);
+}
 img{
     width: 200px;
     height: 50px;
